@@ -150,12 +150,6 @@
     },
 
     {
-      "key": "Weather     ",
-      "keyColor": "magenta",
-      "type": "weather"
-    },
-
-    {
       "key": "Uptime      ",
       "keyColor": "magenta",
       "type": "uptime"
